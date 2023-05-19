@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.no{
+    color: rgb(83, 86, 94);
+    font-size: 20px;
+}
+.site {
+    background-image: linear-gradient(#bfddf3,#bfddf3);
+}
